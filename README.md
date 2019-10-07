@@ -33,6 +33,7 @@ This will install needed libraries.
 - 3) model.py describes the neural network used for function approximation. 
 - 4) checkpoint.pth stores the trained model weights
 - 5) Final score plot as number of episodes: 
+
 ![](banana_scores.png)
 
 
