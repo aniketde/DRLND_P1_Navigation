@@ -32,7 +32,7 @@ This will install needed libraries.
 - 2) dqn_agent.py describes the agent to update Q values.  
 - 3) model.py describes the neural network used for function approximation. 
 - 4) checkpoint.pth stores the trained model weights
-- 4) Final score plot as number of episodes: 
+- 5) Final score plot as number of episodes: 
 ![](banana_scores.png)
 
 
